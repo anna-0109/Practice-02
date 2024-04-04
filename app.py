@@ -1,1 +1,1 @@
-# Practice-02
+print("Hello World")
